@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family:cursive;
+}
+
+.navbar{
+    display:flex;
+    background-color: black;
+}
+.des{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 10px;
+}
+.text-image{
+ margin-left: 0rem;
+}
+
+.images-menu{
+    min-width: 100vw;
+}
+.images-menu img {
+    width: 100%;
+}
+
+.phnimg{
+    width: 45px;
+    margin-left: 10%;
+}
+.wtsimg{
+    width: 50px;
+    margin-left: 10%;
+}
+.instaimg{
+    width: 50px;
+    margin-left: 10%;
+}
+.gmailimg{
+    width: 50px;
+    margin-left: 10%;
+}
